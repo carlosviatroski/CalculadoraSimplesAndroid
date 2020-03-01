@@ -1,0 +1,4 @@
+#Sat Feb 29 16:22:38 BRT 2020
+base.0=/home/v4/Área de trabalho/CalculadoraBizurada/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
